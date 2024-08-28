@@ -4,7 +4,8 @@
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/adm-luiz-henrique-fc/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/codingikky/)
-
+## Perfil Público na DIO
+[![DIO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_Wer6hxqk_oqXaGCVPR4v6wjyDh2L2vPqQ&s)](https://www.dio.me/users/admluizhenrique1500)
 ## Linguagens de Marcação e Estilo
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
