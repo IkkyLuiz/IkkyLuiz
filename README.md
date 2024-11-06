@@ -1,4 +1,4 @@
-## Oiii eu sou o Luiz Henrique, estudante de Aplicações Web, Dio Campus Expert, Speaker de Conteúdo e Tech Recruiter!
+## Oiii eu sou o Luiz Henrique, Especialista em Aplicações Web, Dio Campus Expert, Speaker de Conteúdo e Tech Recruiter!
 # IkkyLuiz
 
 ## Conecte-se comigo
