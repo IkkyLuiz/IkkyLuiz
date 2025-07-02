@@ -1,34 +1,26 @@
-## Oiii eu sou o Luiz Henrique, Especialista em Aplicações Web, Dio Campus Expert, Speaker de Conteúdo e Tech Recruiter!
-# IkkyLuiz
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/adm-luiz-henrique-fc/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/codingikky/)
-## Perfil Público na DIO
-[![DIO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_Wer6hxqk_oqXaGCVPR4v6wjyDh2L2vPqQ&s)](https://www.dio.me/users/admluizhenrique1500)
-## Linguagens de Marcação e Estilo
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00008B&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+%3D%3E+Luiz;Seja+bem+vindo+ao+meu+Perfil!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-# Habilidades
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-## Git Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkkyLuiz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## Sobre:
+Estou em transição de carreira de Tech Recruiter para o universo do desenvolvimento **FullStack** apaixonado por diversos tipos de conhecimentos, especialmente tecnologia e pessoas.
+Busco sempre resolver problemas e tenho paixão de aprender coisas novas, estou sempre em movimento,
+buscando aprender e aplicar meus conhecimentos em diversas áreas.
+<br/>
+<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkkyLuiz&layout=donut&bg_color=292929&border_color=34AD00)](https://github.com/anuraghazra/github-readme-stats)
 
-## Minhas Contribuições  
+## 🚀👨🏻‍💻Hard Skills:
+<br/>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IkkyLuiz&repo=academia-digital&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com//IkkyLuiz/academia-digital)
-  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,git,angular,python,java)](https://skillicons.dev)
+<br/>
+<br/>
 
+## Entre em contato📲
 
+Fique à vontade para entrar em contato comigo através do meu perfil do **LinkedIn** ou **Instagram**:
 
- 
-<div> 
-  <a href="https://www.youtube.com/watch?v=8SlN8z-e7Lg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/codingikky/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:admluizhenrique15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adm-luiz-henrique-fc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-@castcoffeebr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/castcoffeebr/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adm-luiz-henrique-fc/)
